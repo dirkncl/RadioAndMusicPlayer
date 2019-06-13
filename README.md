@@ -1,2 +1,2 @@
 # RadioAndMusicPlayer
-[![Screenshot](./screenshoot/RadioAndMusicPlayer.png)](screenshoot/RadioAndMusicPlayer.html)
+[![Screenshot](./RadioAndMusicPlayer/screenshoot/RadioAndMusicPlayer.png)](./RadioAndMusicPlayer/RadioAndMusicPlayer.html)

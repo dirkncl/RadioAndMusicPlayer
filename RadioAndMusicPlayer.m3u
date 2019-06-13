@@ -49,6 +49,8 @@
 ./media/Boney M - I'm Born Again.mp3
 #EXTINF:268,Boney M - Somewhere In The World
 ./media/Boney M - Somewhere in the World.mp3
+#EXTINF:191,Boney M - Going Back West
+./media/Boney M - Going Back West.mp3
 #EXTINF:252,Boyzone - Nobody Knows
 ./media/Boyzone - Nobody Knows.mp3
 #EXTINF:290,Bunga Citra Lestari - Karena Ku Cinta Kau
@@ -67,8 +69,10 @@
 ./media/Peter Maffay - Du 1970.mp3
 #EXTINF:229,Pussycat - Smile
 ./media/Pussycat - Smile.mp3
-#EXTINF:-1,Mandisa - Dear John
+#EXTINF:228,Mandisa - Dear John
 ./media/Mandisa - Dear John.mp3
+#EXTINF:223,Mandisa - Overcomer
+./media/Mandisa - Overcomer.mp3
 #EXTINF:-1,Rosy and Andres - My Love
 ./media/Rosy and Andres - My Love.mp3
 #EXTINF:-1,Shania Twain - You're Still The One

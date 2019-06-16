@@ -1,2 +1,2 @@
 # RadioAndMusicPlayer
-[![Screenshot](./screenshoot/RadioAndMusicPlayer.png)](screenshoot/RadioAndMusicPlayer.html)
+[![Screenshot](./screenshoot/RadioAndMusicPlayer.png)](https://dirkncl.github.io/RadioAndMusicPlayer/RadioAndMusicPlayer.html)
